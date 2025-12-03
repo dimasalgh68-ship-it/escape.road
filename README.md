@@ -1,13 +1,14 @@
-🚓 Escape Road: Polisi Kejar-kejaran
+<h1>Escape Road: Polisi Kejar-kejaran</h1> 
 
+🖼️ Preview Game
+![escaperoad](./escape.png)
 Game seru bertema pelarian di jalan raya! Tugas kamu sederhana: lari secepat mungkin, hindari polisi, dan bertahan selama mungkin. Semakin lama kamu bertahan, semakin tinggi skor kamu.
 
 🎮 Deskripsi Singkat
 
 Escape Road adalah game kejar-kejaran top-down yang menantang refleks pemain. Kamu mengendalikan mobil yang harus menghindari mobil polisi yang terus mengejar. Game semakin sulit seiring waktu — polisi makin cepat, makin agresif.
 
-🖼️ Preview Game
-![escaperoad](./escape.png)
+
 
 ✨ Fitur Utama
 
@@ -23,6 +24,19 @@ Escape Road adalah game kejar-kejaran top-down yang menantang refleks pemain. Ka
 
 🕹️ Cara Bermain
 
+🧠 Future Improvements (Ideas)
+
+🌆 Map lebih besar
+
+🚗 Pilihan mobil
+
+🎯 Misi harian
+
+🛠️ Upgrade kendaraan
+
+👮‍♂️ Polisi dengan tipe berbeda
+
+🌙 Mode malam / hujan
 Gerakkan mobil kamu dengan tombol:
 
 W / ↑ = Maju
@@ -55,3 +69,4 @@ Clone/download project.
 Buka di Unity Editor.
 
 Tekan Play untuk menjalankan.
+
